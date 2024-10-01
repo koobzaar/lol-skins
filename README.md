@@ -1,7 +1,7 @@
 
 # lol-models
 
-We currently have 83/1633 skins
+We currently have 110/1727 skins
 
 ## Overview
 
