@@ -1,7 +1,7 @@
 
 # lol-models
 
-We currently have 83/1633 skins
+We currently have 110/1727 skins
 
 ## Overview
 
@@ -13,10 +13,9 @@ All content available in this repository has been sourced from the r/LoLCustom c
 
 ## How to Use
 
-To use a skin in-game, simply download your desired skin from this repository. You can then apply it using one of the following tools:
+To use a skin in-game, simply download your desired skin from this repository. You can then apply it using of the following tool:
 
-- [Fantome](https://github.com/LeagueToolkit/Fantome)
-- [CSLOL](https://github.com/LeagueToolkit/cslol-manager)
+ - [CSLOL](https://github.com/LeagueToolkit/cslol-manager)
 
 Follow the installation instructions provided with these tools to successfully implement the skins.
 
