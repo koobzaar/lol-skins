@@ -7,6 +7,10 @@ We currently have 178/1727 skins
 
 This repository aims to provide a centralized and easily accessible location for all in-game skins available for League of Legends. The skins are offered in formats compatible with custom skin applications, allowing players to enhance their gaming experience.
 
+## Downloading all skins (.fantome files)
+
+Go to https://github.com/koobzaar/lol-skins/releases and download the most recent League of Legends Skins.7z. Extract it using 7zip/NanaZip or any other compressor that you like.
+
 ## Credits
 
 All content available in this repository has been sourced from the r/LoLCustom community, with full credit given to its creators. Additionally, many skins have been contributed directly by community members. This repository is community-maintained.
