@@ -33,8 +33,13 @@ Using custom skins does not confer any competitive advantage, as they are only v
 
 We welcome contributions! If you would like to submit skins to this repository, please create a pull request. Ensure that your submission includes:
 
-- The skin files in a format compatible with CSLOL or Fantome.
+- The skin files in a format compatible with CSLOL. We only accept .fantome files (basically .zip files renamed to .fantome).
 - Proper attribution to the original creator of the skin.
+
+You don't know how to extract skins? Don't worry! You can contribute by:
+
+- Renaming all skins that has wrong names or some trash that was left in the way.
+- Starring this repository.
 
 ## Extracting Skins
 
