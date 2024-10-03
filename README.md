@@ -1,5 +1,5 @@
 
-# League of Legends Game Skins Database
+# League of Legends Skins Database
 
 This repository aims to provide a centralized and easily accessible location for all in-game skins available for League of Legends. The skins are offered in formats compatible with custom skin applications.
 
