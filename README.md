@@ -1,6 +1,8 @@
 
 # League of Legends Skins Database
 
+> **If any skin crash / doesn't start your game, PLEASE, submit an issue to this repository. There's too many skins and we're not capable of testing everything.**
+
 This repository aims to provide a centralized and easily accessible location for all in-game skins available for League of Legends. The skins are offered in formats compatible with custom skin applications.
 
 The purpose of this project is not to undermine the custom skin scene within League of Legends. Instead, we aim to provide a solution for players who have been unable to afford skins since the introduction of Vanguard. Previously, these players relied on tools like LolSkin or R3nzSkin, which are no longer viable.
