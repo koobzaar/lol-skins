@@ -1,14 +1,26 @@
 ## Contributing (read carefully before creating a PR)
 
-We welcome contributions! If you would like to submit skins to this repository, please create a pull request. Ensure that your submission includes:
+We welcome contributions! 
+
+### Fix any open issues
+
+We currently have a lot of skins. Some skins might be a little bit buggy or missing. So, if you have knowlodge on how to exctract skins, you can contribute by fixing the issues and submitting a pull request.
+
+Ensure that your submission includes:
 
 - The skin files in a format compatible with CSLOL or Fantome. We only accept .fantome files (basically .zip files renamed to .fantome).
-- Proper attribution to the original creator of the skin.
+- Proper attribution to the original creator of the skin (if you extracted, so, you).
+- Mention to the issue that you're fixing (if applicable)
 
 You don't know how to extract skins? Don't worry! You can contribute by:
 
 - Renaming all skins that has wrong names or some trash that was left in the way.
 - Starring this repository.
+
+### Before anything
+
+- **Please keep the folder structure**. If you want to change it, your pull request needs to have that new folder structure applied to ALL champions.
+- **Don't create pull requests with just one file uploaded by browser**. Make sure that you've cloned the repository and placed everything inside of it.
 
 ### What is a .fantome file?
 
