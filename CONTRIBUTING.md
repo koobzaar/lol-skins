@@ -1,67 +1,121 @@
-## Contributing (read carefully before creating a PR)
+# Contributing Guidelines
 
-We welcome contributions! 
+Thank you for your interest in contributing to our project! We value every contribution, whether it's fixing bugs, adding new skins, or improving documentation. This guide will help you understand how to contribute effectively and ensure your submissions align with our project standards.
 
-### Fix any open issues
+## How to Contribute
 
-We currently have a lot of skins. Some skins might be a little bit buggy or missing. So, if you have knowlodge on how to exctract skins, you can contribute by fixing the issues and submitting a pull request.
+### 1. Addressing Open Issues
 
-Ensure that your submission includes:
+We currently have a variety of skins, some of which may have bugs or be incomplete. Your expertise can significantly improve our collection:
 
-- The skin files in a format compatible with CSLOL or Fantome. We only accept .fantome files (basically .zip files renamed to .fantome).
-- Proper attribution to the original creator of the skin (if you extracted, so, you).
-- Mention to the issue that you're fixing (if applicable)
+- **Fix Existing Bugs**: If you notice any issues with current skins, such as crashing problems, model glitches, or animation errors, please help by submitting fixes.
+- **Complete Missing Skins**: Some champions may have incomplete skin sets. If you can extract or create missing skins, your contributions are highly welcome.
 
-You don't know how to extract skins? Don't worry! You can contribute by:
+### 2. Improving Existing Content
 
-- Renaming all skins that has wrong names or some trash that was left in the way.
-- Starring this repository.
+Even if you're not skilled in skin extraction or creation, you can still make valuable contributions:
 
-### Before anything
+- **Rename Mislabeled Skins**: Many skins may have incorrect or confusing names. Help by renaming them accurately according to their in-game counterparts.
+- **Clean Up File Structure**: Remove any unnecessary files, folders, or metadata that don't belong in the skin packages.
+- **Organize Skins**: Ensure skins are placed in the correct champion folders and follow our naming conventions.
 
-- **Please keep the folder structure**. If you want to change it, your pull request needs to have that new folder structure applied to ALL champions.
-- **Don't create pull requests with just one file uploaded by browser**. Make sure that you've cloned the repository and placed everything inside of it.
+### 3. Supporting the Project
 
-### What is a .fantome file?
+- **Star the Repository**: This simple action helps increase the project's visibility and shows appreciation for the contributors' efforts.
+- **Report Issues**: If you encounter problems but can't fix them yourself, creating detailed issue reports is extremely helpful.
+- **Spread the Word**: Share the project with other League of Legends enthusiasts who might be interested in contributing or using custom skins.
 
-From [Fantome](https://github.com/LeagueToolkit/Fantome) developers:
+## Submission Requirements
 
-A .fantome file is simply a .zip file that the extension has been renamed with the .fantome. It's a format used specifically for League of Legends mods that are meant to be installed using the Fantome mod manager.
+### 1. File Format
 
-The internal structure of a .fantome file must follow this specific organization:
+We exclusively accept skins in the .fantome format, which is compatible with both CSLOL and Fantome mod managers. Here's what you need to know:
+
+- A .fantome file is essentially a .zip file with its extension renamed to .fantome.
+- This format is specifically designed for League of Legends mods to be installed using the Fantome mod manager.
+- Ensure your submission only includes .fantome files. We cannot accept other formats like .zip, .rar, or individual texture/model files.
+
+### 2. Proper Attribution
+
+- Always credit the original extractor of the skin, even if it's yourself.
+
+### 3. Issue Reference
+
+When your contribution addresses a specific issue:
+
+- Mention the issue number in your pull request (e.g., "Fixes #123").
+- Provide a brief description of how your submission resolves the issue.
+
+### 4. Folder Structure
+
+Maintaining a consistent folder structure is vital for the project's organization:
+
+- Follow the existing folder hierarchy for all contributions.
+- Place skins in their respective champion folders (e.g., `/Ahri/` for Ahri skins).
+- If you believe a structural change would benefit the project, propose it comprehensively, showing how it would apply to ALL champions before implementation.
+
+### 5. Pull Request Format
+
+To ensure smooth integration of your contributions:
+
+- Clone the repository to your local machine and make changes there.
+- Create a new branch for your changes (e.g., `fix-ahri-star-guardian-skin`).
+- Commit your changes with clear, descriptive commit messages.
+- Push your branch to your fork and create a pull request from there.
+- Provide a detailed description of your changes in the pull request.
+- Do not upload single files directly through GitHub's web interface, as this can lead to integration issues.
+
+## .fantome File Structure
+
+Understanding the internal structure of a .fantome file is crucial for proper mod creation:
+
 ```
-ModName.fantome (renamed from .zip)
+ModName.fantome
 ├── RAW/           # For porting legacy mods - avoid for new mods
+│   └── (Legacy mod files, if any)
 ├── WAD/           # Main folder for mod files, mirrors LoL's structure
+│   ├── DATA/      # Game data files
+│   ├── Assets/    # Asset files (textures, models, etc.)
+│   └── (Other LoL directories as needed)
 └── META/          # Mod metadata
     ├── info.json  # Required: Contains mod info (name, author, version, etc.)
     └── image.png  # Optional: Preview image for the mod
 ```
 
-Key points about .fantome files:
-1. They are technically a renamed ZIP archive
-2. They must contain the standard folders (RAW, WAD, META) and required metadata
-3. The WAD folder should mirror League of Legends' file structure for proper mod installation
-4. The META folder must include an info.json file with basic mod information
-5. Modern mods should primarily use the WAD folder structure for best performance and file size
+Key points to remember:
 
-### I have some skins, but they're all in .zip and I don't know how to convert to .fantome 
+1. The .fantome file is a renamed ZIP archive with a specific internal structure.
+2. It must contain the standard folders: RAW (for legacy content), WAD (for main mod files), and META (for metadata).
+3. The WAD folder should mirror League of Legends' file structure precisely for proper mod installation.
+4. The META folder must include an info.json file with basic mod information such as name, author, and version.
+5. Modern mods should primarily use the WAD folder structure for optimal performance and file size.
+6. The RAW folder is mainly for backwards compatibility and should be avoided for new mods unless absolutely necessary.
 
-**Step 1**: Enable File Extensions
+## Converting .zip to .fantome
 
-1. Open File Explorer (Windows key + E)
-2. Click on "View" at the top menu
-3. Click on "Show" in the ribbon
-4. Look for "File name extensions" checkbox
-5. Check the box to show file extensions
+If you have skin mods in .zip format, follow these steps to convert them to .fantome:
 
-Step 2: Change the File Extension
+1. **Enable File Extensions in Windows**
+   - Open File Explorer (press Windows key + E)
+   - Click on "View" in the top menu
+   - In the "Show/hide" section, check the box for "File name extensions"
 
-1. Right-click on your mod's .zip file
-2. Select "Rename"
-3. The file name will be highlighted, and you'll now see ".zip" at the end
-4. Move your cursor to the end of the filename
-5. Replace ".zip" with ".fantome"
-6. Press Enter
-7. Windows will show a warning about changing file extensions
-8. Click "Yes" to confirm the change
+2. **Rename the File Extension**
+   - Right-click on your mod's .zip file
+   - Select "Rename" from the context menu
+   - The file name will be highlighted, and you'll see ".zip" at the end
+   - Carefully move your cursor to the end of the filename
+   - Delete ".zip" and type ".fantome" instead
+   - Press Enter to confirm
+   - Windows will show a warning about changing file extensions; click "Yes" to proceed
+
+3. **Verify the Internal Structure**
+   - After renaming, open the .fantome file with a zip program like 7-Zip or WinRAR
+   - Ensure the internal folder structure matches the required .fantome format (RAW, WAD, META folders)
+   - If needed, reorganize the contents to comply with the structure outlined above
+
+4. **Update Metadata**
+   - In the META folder, create or update the info.json file with accurate mod information
+   - Optionally, add a preview image named image.png in the META folder
+
+By meticulously following these expanded guidelines, you'll help maintain the project's high standards of quality, organization, and usability. Your careful attention to detail in submissions will be greatly appreciated by both the maintainers and the community. Thank you for your valuable contributions to our custom skin collection!
