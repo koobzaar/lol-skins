@@ -13,7 +13,7 @@ The creator of this repository believes that with the implementation of predator
 
 > We hold that gaming culture should be inclusive and accessible, not just a privilege for those who can afford it.
 
-We currently have 220/1727 skins
+We currently have all skins.
 
 ## Contributing (read carefully before creating a PR)
 
