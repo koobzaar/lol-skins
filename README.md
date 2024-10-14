@@ -14,7 +14,9 @@ The creator of this repository believes that with the implementation of predator
 > We hold that gaming culture should be inclusive and accessible, not just a privilege for those who can afford it.
 
 ## Wanna contribute?
-You can simply contribute by ⭐ starring this repository. 
+
+> [!IMPORTANT]\
+> We're a small team, and we rely on Stars ⭐. Please consider starring this repository if it helped you in any way.
 
 But, if you want to go a little further, you can start by checking our [contribute](CONTRIBUTING.md) page.
 
@@ -26,6 +28,11 @@ To use a skin in-game, simply download your desired skin from this repository. Y
 - [Fantome](https://github.com/LeagueToolkit/fantome)
 
 Follow the installation instructions provided with these tools to successfully implement the skins.
+
+
+## Are you a developer?
+
+Check the [developer-oriented repository](https://github.com/koobzaar/lol-skins-developer), with the champion and skins ID instead of names. Also it has all chromas too.
 
 ## Donation
 
