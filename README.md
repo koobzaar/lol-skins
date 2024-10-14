@@ -35,7 +35,7 @@ Follow the installation instructions provided with these tools to successfully i
 
 ## Are you a developer?
 
-Check the [developer-oriented repository](https://github.com/koobzaar/lol-skins-developer), with the champion and skins ID instead of names. Also it has all chromas too.
+Check the [developer-oriented repository](https://github.com/koobzaar/lol-skins-developer), with the champion and skins ID instead of names.
 
 ## Donation
 
