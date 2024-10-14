@@ -27,6 +27,11 @@ To use a skin in-game, simply download your desired skin from this repository. Y
 
 Follow the installation instructions provided with these tools to successfully implement the skins.
 
+
+## Are you a developer?
+
+Check the [developer-oriented repository](https://github.com/koobzaar/lol-skins-developer), with the champion and skins ID instead of names. Also it has all chromas too.
+
 ## Donation
 
 Pix: b2763e55-ac97-4963-83e9-d9827caed2de
