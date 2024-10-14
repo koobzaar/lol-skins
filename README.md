@@ -29,9 +29,9 @@ To use a skin in-game, simply download your desired skin from this repository. Y
 
 Follow the installation instructions provided with these tools to successfully implement the skins.
 
-## Duplicated chromas colors
+## Duplicated or imprecise chromas colors
 > [!IMPORTANT]\
-> Please notice that Riot Games doesn't have an endpoint to get the chromas names. Therefore, we created a tool to calculate an approximation to match the color. So some skins might have duplicated colors - but they're different.
+> Please notice that Riot Games doesn't have an endpoint to get the chromas names. Therefore, we created a tool to calculate an approximation to match the color. So some skins might have duplicated colors or a slightly mismatch.
 
 ## Are you a developer?
 
