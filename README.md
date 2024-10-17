@@ -31,7 +31,7 @@ Follow the installation instructions provided with these tools to successfully i
 
 ## Duplicated or imprecise chromas colors
 > [!IMPORTANT]\
-> Please notice that Riot Games doesn't have an endpoint to get the chromas names. Therefore, we created a tool to calculate an approximation to match the color. So some skins might have duplicated colors or a slightly mismatch.
+> Please notice that Riot Games doesn't have an endpoint to get the chromas names. Therefore, we created a tool to calculate an approximation to match the color. So some skins might have duplicated colors or a slightly mismatch, but they're all different from each other. Also some Mythic chroma can be just "Brown" or "Golden".
 
 ## Are you a developer?
 
