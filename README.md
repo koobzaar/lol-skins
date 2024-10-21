@@ -22,7 +22,10 @@ But, if you want to go a little further, you can start by checking our [contribu
 
 ## How to Use
 
-To use a skin in-game, simply download your desired skin from this repository. You can then apply it using of the following tool:
+Recently we released Exalted. Exalted works by loading a catalog of skins from our lol-skins-developer repository, allowing you to browse through a wide variety of options for each champion, and then injecting your chosen skin into the game. Feel free to check it out:
+- [Exalted](https://github.com/koobzaar/Exalted)
+
+But, if you want to do it manually, we recommend the following tools:
 
 - [CSLOL](https://github.com/LeagueToolkit/cslol-manager)
 - [Fantome](https://github.com/LeagueToolkit/fantome)
