@@ -20,18 +20,6 @@ The creator of this repository believes that with the implementation of predator
 
 But, if you want to go a little further, you can start by checking our [contribute](CONTRIBUTING.md) page.
 
-## How to Use
-
-Recently we released Exalted. Exalted works by loading a catalog of skins from our lol-skins-developer repository, allowing you to browse through a wide variety of options for each champion, and then injecting your chosen skin into the game. Feel free to check it out:
-- [Exalted](https://github.com/koobzaar/Exalted)
-
-But, if you want to do it manually, we recommend the following tools:
-
-- [CSLOL](https://github.com/LeagueToolkit/cslol-manager)
-- [Fantome](https://github.com/LeagueToolkit/fantome)
-
-Follow the installation instructions provided with these tools to successfully implement the skins.
-
 ## Duplicated or imprecise chromas colors
 > [!IMPORTANT]\
 > Please notice that Riot Games doesn't have an endpoint to get the chromas names. Therefore, we created a tool to calculate an approximation to match the color. So some skins might have duplicated colors or a slightly mismatch, but they're all different from each other. Also some Mythic chroma can be just "Brown" or "Golden".
