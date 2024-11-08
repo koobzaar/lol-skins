@@ -1,6 +1,8 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: General issue template
+about: A simple template that handles any skin issue. If you're not facing a skin issue, you can simply write your question.
+
+VERY IMPORTANT: WE ARE NOT DEVS OR OWNERS OF ANY SKIN INJECTOR. IF YOURE FACING PROBLEMS WITH THE INJECTOR ITSELF, PLEASE REDIRECT IT TO THE CORRESPONDING DEV.
 title: "[Skin name] Skin Issue"
 labels: ''
 assignees: ''
