@@ -8,6 +8,7 @@ labels: ''
 assignees: ''
 
 ---
+OBS: We are a VERY diverse team. Feel free to write in your main language if it's better for you.
 
 ## Description
 [Provide a clear and concise description of the issue you are experiencing with the skin.]
