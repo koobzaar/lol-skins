@@ -1,38 +1,30 @@
-
 # League of Legends Skins Database
 
 > **If any skin crash / doesn't start your game, PLEASE, submit an issue to this repository. There's too many skins and we're not capable of testing everything.**
 
-Generated using [RitoSkin](https://github.com/nylish/ritoskin), from [Nylish](https://github.com/nylish), this repository aims to provide a centralized and easily accessible location for all in-game skins available for League of Legends. The skins are offered in formats compatible with custom skin applications.
+Generated using [ritoskin](https://github.com/nylish/ritoskin), from [nylish](https://github.com/nylish), this repository aims to provide a centralized and easily accessible location for all in-game skins available for League of Legends. The skins are offered in formats compatible with custom skin applications.
 
 The purpose of this project is not to undermine the custom skin scene within League of Legends. Instead, we aim to provide a solution for players who have been unable to afford skins since the introduction of Vanguard. Previously, these players relied on tools like LolSkin or R3nzSkin, which are no longer viable.
 
-Using custom skins does not confer any competitive advantage, as they are only visible to the player utilizing them. 
+Using custom skins does not confer any competitive advantage, as they are only visible to the player utilizing them.
 
-The creator of this repository believes that with the implementation of predatory practices in skin sales — exemplified by exclusive skins like the Faker skin, which cost as much as three months' wages in some regions — Riot has restricted access to certain content for a significant portion of its player base. 
+The creator of this repository believes that with the implementation of predatory practices in skin sales — exemplified by exclusive skins like the Faker skin, which cost as much as three months' wages in some regions — Riot has restricted access to certain content for a significant portion of its player base.
 
 > We hold that gaming culture should be inclusive and accessible, not just a privilege for those who can afford it.
 
-## Wanna contribute?
+## Additional contents
 
-> [!IMPORTANT]\
-> We're a small team, and we rely on Stars ⭐. Please consider starring this repository if it helped you in any way.
+- Check the [developer-oriented repository](https://github.com/koobzaar/lol-skins-developer), with the champion and skins ID instead of names.
+- Check out our Discord server: https://discord.gg/YpSNEBpm
+- Wanna donate? Check out my Ko-Fi page: https://ko-fi.com/koobzaar
 
-But, if you want to go a little further, you can start by checking our [contribute](CONTRIBUTING.md) page.
+## How to use
 
-## Duplicated or imprecise chromas colors
-> [!IMPORTANT]\
-> Please notice that Riot Games doesn't have an endpoint to get the chromas names. Therefore, we created a tool to calculate an approximation to match the color. So some skins might have duplicated colors or a slightly mismatch, but they're all different from each other. Also some Mythic chroma can be just "Brown" or "Golden".
+You can use any tool that allows custom skin injection, or, check out [Exalted](https://ko-fi.com/koobzaar):
 
-## Are you a developer?
+Exalted is our private tool that works by loading a catalog of skins from our [lol-skins-developer](https://github.com/koobzaar/lol-skins-developer) repository allowing you to browse through a wide variety of options for each champion, and then injecting your chosen skin into the game. Exalted has a lot of alternative tools to handle the injection, and also a party mode - that allows you and your friends to sync the skins together.
 
-Check the [developer-oriented repository](https://github.com/koobzaar/lol-skins-developer), with the champion and skins ID instead of names.
-
-## Donation
-
-Pix: b2763e55-ac97-4963-83e9-d9827caed2de
-
-Ko-Fi: https://ko-fi.com/koobzaar
+<img src="https://i.imgur.com/Y54q27X.png">
 
 ## Disclaimer
 
