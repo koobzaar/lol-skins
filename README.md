@@ -30,6 +30,8 @@ Exalted is our private tool that works by loading a catalog of skins from our [l
 - Use your favorite map with your skin. Yeah, you can do this already. But it's simpler than you think.
 - No DRM. You donate. **You OWN a copy**. "If buying isn't owning, piracy isn't stealing" doesn't apply here. Your friends doesn't need to buy a copy of Exalted - you are free to share with them.
 
+Exalted is our only source of income from this repository. Your donation helps us continue the good work of keeping the skins available for free. Lol-skins will ALWAYS be free, regardless of donations.
+
 <img src="https://i.imgur.com/Y54q27X.png">
 
 ## Disclaimer
