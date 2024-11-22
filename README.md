@@ -22,7 +22,13 @@ The creator of this repository believes that with the implementation of predator
 
 You can use any tool that allows custom skin injection, or, check out [Exalted](https://ko-fi.com/koobzaar):
 
-Exalted is our private tool that works by loading a catalog of skins from our [lol-skins-developer](https://github.com/koobzaar/lol-skins-developer) repository allowing you to browse through a wide variety of options for each champion, and then injecting your chosen skin into the game. Exalted has a lot of alternative tools to handle the injection, and also a party mode - that allows you and your friends to sync the skins together.
+Exalted is our private tool that works by loading a catalog of skins from our [lol-skins-developer](https://github.com/koobzaar/lol-skins-developer) repository allowing you to browse through a wide variety of options for each champion, and then injecting your chosen skin into the game.
+
+- One click injection. Choose your champion then choose your skin. That's it.
+- Always up-to-date catalog. Don't need to be browsing lol-skins everyday. New skin available? It will automatically appear in Exalted.
+- **See your friends skins**. Sync your friends skins and yours with the party mode. Create a Party, invite your friends and choose your skin. Simple as that.
+- Use your favorite map with your skin. Yeah, you can do this already. But it's simpler than you think.
+- No DRM. You donate. **You OWN a copy**. "If buying isn't owning, piracy isn't stealing" doesn't apply here. Your friends doesn't need to buy a copy of Exalted - you are free to share with them.
 
 <img src="https://i.imgur.com/Y54q27X.png">
 
