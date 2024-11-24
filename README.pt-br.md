@@ -41,7 +41,11 @@ O Exalted é nossa única fonte de renda deste repositório. Sua doação nos aj
 
 
 
-https://github.com/user-attachments/assets/e81577d5-5f2c-4862-85a0-a3fabcdd15b2
+
+
+https://github.com/user-attachments/assets/ac340d19-67f8-4f50-97e7-671595d4485a
+
+
 
 
 
