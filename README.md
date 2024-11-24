@@ -36,7 +36,11 @@ Exalted is our only source of income from this repository. Your donation helps u
 
 
 
-https://github.com/user-attachments/assets/7342279a-4891-4c40-8336-2e795c8fa55a
+
+https://github.com/user-attachments/assets/e2510470-914c-47c4-96ea-dd43cdf1d2da
+
+
+
 
 
 ## Disclaimer
