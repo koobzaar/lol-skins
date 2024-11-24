@@ -37,7 +37,15 @@ O Exalted é nossa única fonte de renda deste repositório. Sua doação nos aj
 > [!IMPORTANT]
 > Estamos cientes que doações em dolar são fora da realidade brasileira, até porque **eu sou brasileiro**. Portanto, exclusivamente para o Brasil, aceitamos doações acima de R$70,00 via Pix, diretamente em: `b2763e55-ac97-4963-83e9-d9827caed2de`. Após a sua doação, me envie um e-mail com o comprovante em: bruno.trigueiro@pm.me e eu darei procedimento. Note que esse valor, mesmo sendo um pouco acima, ainda é lifetime - ou seja, comprou uma vez, tem acesso pra sempre. E já que você pode compartilhar com amigos, não sai por menos de R$14,00 cada um.
 
-<img src="https://i.imgur.com/Y54q27X.png">
+
+
+
+
+https://github.com/user-attachments/assets/e81577d5-5f2c-4862-85a0-a3fabcdd15b2
+
+
+
+
 
 ## Aviso Legal
 
