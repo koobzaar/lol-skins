@@ -1,4 +1,3 @@
-```markdown
 # Banco de Skins do League of Legends
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/koobzaar/lol-skins/blob/master/README.md)
@@ -53,4 +52,3 @@ Este projeto não é endossado pela Riot Games e não representa as visões ou o
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=koobzaar/lol-skins&type=Date" />
  </picture>
 </a>
-```
