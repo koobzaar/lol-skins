@@ -1,6 +1,6 @@
 # League of Legends Skins Database
 
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/koobzaar/lol-skins/blob/master/lang/brazilian-portuguese/)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/koobzaar/lol-skins/blob/master/README.pt-br.md)
 
 > **If any skin crash / doesn't start your game, PLEASE, submit an issue to this repository. There's too many skins and we're not capable of testing everything.**
 
