@@ -34,7 +34,10 @@ Exalted is our private tool that works by loading a catalog of skins from our [l
 
 Exalted is our only source of income from this repository. Your donation helps us continue the good work of keeping the skins available for free. Lol-skins will ALWAYS be free, regardless of donations.
 
-<img src="https://i.imgur.com/Y54q27X.png">
+
+
+https://github.com/user-attachments/assets/7342279a-4891-4c40-8336-2e795c8fa55a
+
 
 ## Disclaimer
 
