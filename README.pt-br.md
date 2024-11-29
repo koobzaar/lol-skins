@@ -35,7 +35,7 @@ O Exalted é nossa ferramenta privada que funciona carregando um catálogo de sk
 O Exalted é nossa única fonte de renda deste repositório. Sua doação nos ajuda a continuar o bom trabalho de manter as skins disponíveis gratuitamente. O lol-skins será SEMPRE gratuito, independentemente das doações.
 
 > [!IMPORTANT]
-> Estamos cientes que doações em dolar são fora da realidade brasileira, até porque **eu sou brasileiro**. Portanto, exclusivamente para o Brasil, aceitamos doações acima de R$70,00 via Pix, diretamente em: `b2763e55-ac97-4963-83e9-d9827caed2de`. Após a sua doação, me envie um e-mail com o comprovante em: bruno.trigueiro@pm.me e eu darei procedimento. Note que esse valor, mesmo sendo um pouco acima, ainda é lifetime - ou seja, comprou uma vez, tem acesso pra sempre. E já que você pode compartilhar com amigos, não sai por menos de R$14,00 cada um.
+> Estamos cientes que doações em dolar são fora da realidade brasileira, até porque **eu sou brasileiro**. Portanto, exclusivamente para o Brasil, aceitamos doações acima de R$50,00 via Pix, diretamente em: `b2763e55-ac97-4963-83e9-d9827caed2de`. Após a sua doação, me envie um e-mail com o comprovante em: bruno.trigueiro@pm.me e eu darei procedimento. Note que esse valor, mesmo sendo um pouco acima, ainda é lifetime - ou seja, comprou uma vez, tem acesso pra sempre. E já que você pode compartilhar com amigos, não sai por menos de R$10,00 cada um.
 
 
 
