@@ -24,6 +24,8 @@ The creator of this repository believes that with the implementation of predator
 
 You can use any tool that allows custom skin injection, or, check out [Exalted](https://ko-fi.com/koobzaar):
 
+
+
 Exalted is our private tool that works by loading a catalog of skins from our [lol-skins-developer](https://github.com/koobzaar/lol-skins-developer) repository allowing you to browse through a wide variety of options for each champion, and then injecting your chosen skin into the game.
 
 - One click injection. Choose your champion then choose your skin. That's it.
@@ -34,7 +36,8 @@ Exalted is our private tool that works by loading a catalog of skins from our [l
 
 Exalted is our only source of income from this repository. Your donation helps us continue the good work of keeping the skins available for free. Lol-skins will ALWAYS be free, regardless of donations.
 
-
+> [!IMPORTANT]
+> Se você é brasileiro, por favor, cheque a [versão em pt-BR](https://github.com/koobzaar/lol-skins/blob/master/README.pt-br.md) deste README.
 
 
 https://github.com/user-attachments/assets/e2510470-914c-47c4-96ea-dd43cdf1d2da
