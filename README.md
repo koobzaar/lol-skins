@@ -17,7 +17,7 @@ The creator of this repository believes that with the implementation of predator
 ## Additional contents
 
 - Check the [developer-oriented repository](https://github.com/koobzaar/lol-skins-developer), with the champion and skins ID instead of names.
-- Check out our Discord server: https://discord.gg/YpSNEBpm
+- Check out our Discord server: https://discord.gg/rH96MV7D
 - Wanna donate? Check out my Ko-Fi page: https://ko-fi.com/koobzaar
 
 ## How to use
