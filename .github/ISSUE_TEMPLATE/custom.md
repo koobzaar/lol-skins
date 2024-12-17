@@ -8,26 +8,12 @@ labels: ''
 assignees: ''
 
 ---
-OBS: We are a VERY diverse team. Feel free to write in your main language if it's better for you.
 
 ## Description
-[Provide a clear and concise description of the issue you are experiencing with the skin.]
+[Describe the problem]
 
-## Affected Skin
-- Skin Name: [e.g. Project Renekton]
 
-## Steps to reproduce 
-1. [Step 1 to reproduce the issue]
-2. [Step 2 to reproduce the issue]
-3. [Step 3 to reproduce the issue]
-
-## Expected Behavior
-[Describe what you expected to happen with the skin.]
-
-## Actual Behavior
-[Describe what is actually happening with the skin.]
-
-## Screenshots (optional, but very important)
+## Screenshots or in-game footage
 [Please provide screenshots or screen recordings demonstrating the issue.]
 
 ## Additional Details
