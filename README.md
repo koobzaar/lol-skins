@@ -25,6 +25,9 @@ The creator of this repository believes that with the implementation of predator
 You can use any tool that allows custom skin injection, or, check out [Exalted](https://ko-fi.com/koobzaar):
 
 
+> [!IMPORTANT]
+> Se você é brasileiro, por favor, cheque a [versão em pt-BR](https://github.com/koobzaar/lol-skins/blob/master/README.pt-br.md) deste README.
+
 
 Exalted is our private tool that works by loading a catalog of skins from our [lol-skins-developer](https://github.com/koobzaar/lol-skins-developer) repository allowing you to browse through a wide variety of options for each champion, and then injecting your chosen skin into the game.
 
@@ -36,8 +39,8 @@ Exalted is our private tool that works by loading a catalog of skins from our [l
 
 Exalted is our only source of income from this repository. Your donation helps us continue the good work of keeping the skins available for free. Lol-skins will ALWAYS be free, regardless of donations.
 
-> [!IMPORTANT]
-> Se você é brasileiro, por favor, cheque a [versão em pt-BR](https://github.com/koobzaar/lol-skins/blob/master/README.pt-br.md) deste README.
+> [!WARNING]
+> Exalted doesn't work on Chinese servers - you can use an accelerator to make it inject the skins, but the injection time takes about 3 min. Also, **we don't have ANY THIRD-PARTY resellers**. We don't offer **any warranty** about your Exalted simply stops working anytime if you bought from a third-party. All donators are invited to Exalted server.
 
 
 https://github.com/user-attachments/assets/e2510470-914c-47c4-96ea-dd43cdf1d2da
