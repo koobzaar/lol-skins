@@ -36,6 +36,7 @@ Exalted is our private tool that works by loading a catalog of skins from our [l
 - **See your friends skins**. Sync your friends skins and yours with the party mode. Create a Party, invite your friends and choose your skin. Simple as that.
 - Use your favorite map with your skin. Yeah, you can do this already. But it's simpler than you think.
 - No DRM. You donate. **You OWN a copy**. "If buying isn't owning, piracy isn't stealing" doesn't apply here. Your friends doesn't need to buy a copy of Exalted - you are free to share with them.
+- You can get it **FOR FREE** by helping us with the skins. Check the pinned issue and the pinned message on our Discord server (#general-chat)
 
 Exalted is the **only source of income** for this repository. Your donation helps keep skins available for free. Lol-skins will **always remain free**, regardless of donations.
 
