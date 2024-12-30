@@ -37,10 +37,10 @@ Exalted is our private tool that works by loading a catalog of skins from our [l
 - Use your favorite map with your skin. Yeah, you can do this already. But it's simpler than you think.
 - No DRM. You donate. **You OWN a copy**. "If buying isn't owning, piracy isn't stealing" doesn't apply here. Your friends doesn't need to buy a copy of Exalted - you are free to share with them.
 
-Exalted is our only source of income from this repository. Your donation helps us continue the good work of keeping the skins available for free. Lol-skins will ALWAYS be free, regardless of donations.
+Exalted is the **only source of income** for this repository. Your donation helps keep skins available for free. Lol-skins will **always remain free**, regardless of donations.
 
-> [!WARNING]
-> Exalted doesn't work on Chinese servers - you can use an accelerator to make it inject the skins, but the injection time takes about 3 min. Also, **we don't have ANY THIRD-PARTY resellers**. We don't offer **any warranty** about your Exalted simply stops working anytime if you bought from a third-party. All donators are invited to Exalted server.
+> [!WARNING]  
+> Exalted may not work well in China and is blocked in Korea. To use it in China, you can try an accelerator or change your DNS to `8.8.8.8`, but injection times may vary (about 3 minutes or 30 seconds, respectively). **We do not have any third-party resellers**, and we **do not offer any warranties** for Exalted if purchased from them. All donors are invited to the Exalted server.
 
 
 https://github.com/user-attachments/assets/e2510470-914c-47c4-96ea-dd43cdf1d2da
