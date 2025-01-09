@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Skin Issue Report</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                max-width: 800px;
+                margin: 0 auto;
+                padding: 20px;
+            }
+            h2 {
+                color: #333;
+            }
+            label {
+                display: block;
+                margin-top: 10px;
+            }
+            textarea,
+            input {
+                width: 100%;
+                padding: 5px;
+                margin-top: 5px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Skin Issue Report</h1>
+        <p>
+            <strong>Note:</strong> For issues related to skin injectors (e.g.
+            cslol-manager), please contact the injector's developer.
+        </p>
+
+        <form>
+            <h2>Describe the Problem</h2>
+            <label for="problem">What's going wrong with the skin?</label>
+            <textarea id="problem" rows="4"></textarea>
+
+            <h2>Show the Issue</h2>
+            <label for="visual"
+                >Please add screenshots or a video link here:</label
+            >
+            <textarea id="visual" rows="4"></textarea>
+
+            <h2>Your Setup</h2>
+            <label for="skinApp">Custom Skin App (name and version):</label>
+            <input type="text" id="skinApp" />
+            <label for="leagueVersion">League Version (e.g., 13.1):</label>
+            <input type="text" id="leagueVersion" />
+            <label for="os">Operating System (e.g., Windows 11):</label>
+            <input type="text" id="os" />
+
+            <h2>Error Messages (if any)</h2>
+            <label for="errors">Include any error logs or messages:</label>
+            <textarea id="errors" rows="4"></textarea>
+
+            <h2>Additional Info</h2>
+            <label for="additionalInfo"
+                >Any other details that might help fix the problem:</label
+            >
+            <textarea id="additionalInfo" rows="4"></textarea>
+
+            <input type="submit" value="Submit Issue" />
+        </form>
+    </body>
+</html>
