@@ -11,3 +11,4 @@
 | ![15058](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/15/15058.png) | 15058 |
 | ![15059](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/15/15059.png) | 15059 |
 | ![15060](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/15/15060.png) | 15060 |
+| ![15071](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/15/15071.png) | 15071 |
