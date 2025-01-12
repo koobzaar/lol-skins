@@ -17,8 +17,9 @@ The creator of this repository believes that with the implementation of predator
 ## Additional contents
 
 - Check the [developer-oriented repository](https://github.com/koobzaar/lol-skins-developer), with the champion and skins ID instead of names.
-- Check out our Discord server: https://discord.gg/NJzEUxykwD
+- Check out our Discord server: https://discord.gg/ritoskin
 - Wanna donate? Check out my Ko-Fi page: https://ko-fi.com/koobzaar
+- Check the tutorial for using this repository: [RitoSkin - Tutorials](https://www.youtube.com/playlist?list=PLmfRqBUHwQjJKuxoVOiocEoJPi8SnJSRG)
 
 ## How to use
 
@@ -40,7 +41,7 @@ Exalted is our private tool that works by loading a catalog of skins from our [l
 
 Exalted is the **only source of income** for this repository. Your donation helps keep skins available for free. Lol-skins will **always remain free**, regardless of donations.
 
-> [!WARNING]  
+> [!WARNING]
 > Exalted may not work well in China and is blocked in Korea. To use it in China, you can try an accelerator or change your DNS to `8.8.8.8`, but injection times may vary (about 3 minutes or 30 seconds, respectively). **We do not have any third-party resellers**, and we **do not offer any warranties** for Exalted if purchased from them. All donors are invited to the Exalted server.
 
 

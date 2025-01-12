@@ -17,8 +17,9 @@ O criador deste repositório acredita que, com a implementação de práticas pr
 ## Conteúdos adicionais
 
 - Confira o [repositório para desenvolvedores](https://github.com/koobzaar/lol-skins-developer), com os IDs dos campeões e skins em vez dos nomes.
-- Entre no nosso servidor Discord: https://discord.gg/NJzEUxykwD
+- Entre no nosso servidor Discord: https://discord.gg/ritoskin
 - Quer fazer uma doação? Confira minha página no Ko-Fi: https://ko-fi.com/koobzaar
+- Tutorial para usar este repositório: [RitoSkin - Tutorials](https://www.youtube.com/playlist?list=PLmfRqBUHwQjJKuxoVOiocEoJPi8SnJSRG)
 
 ## Como usar
 
