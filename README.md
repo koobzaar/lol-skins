@@ -42,8 +42,7 @@ Exalted is our private tool that works by loading a catalog of skins from our [l
 Exalted is the **only source of income** for this repository. Your donation helps keep skins available for free. Lol-skins will **always remain free**, regardless of donations.
 
 > [!WARNING]
-> Exalted may not work well in China and is blocked in Korea. To use it in China, you can try an accelerator or change your DNS to `8.8.8.8`, but injection times may vary (about 3 minutes or 30 seconds, respectively). **We do not have any third-party resellers**, and we **do not offer any warranties** for Exalted if purchased from them. All donors are invited to the Exalted server.
-
+> We are writing port for Exalted to China. Currently the injection time are fixed (3 seconds). We need to fix the time that it takes to switch champions (around 11 seconds). But it's usable. Exalted still blocked in Korea. If you are from China and uses Exalted, feel free to e-mail me after a donation to get access to Chinese version.
 
 https://github.com/user-attachments/assets/e2510470-914c-47c4-96ea-dd43cdf1d2da
 
