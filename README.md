@@ -42,7 +42,7 @@ Exalted is our private tool that works by loading a catalog of skins from our [l
 Exalted is the **only source of income** for this repository. Your donation helps keep skins available for free. Lol-skins will **always remain free**, regardless of donations.
 
 > [!WARNING]  
-> We are currently working on porting **Exalted** to China. At the moment, injection times are fixed at **3 seconds**. We also need to adjust the champion-switching time, which takes around **11 seconds**. However, the tool is still usable.  
+> 我们很高兴与大家分享：Exalted已成功完成移植，并已在中国正式上线运营！衷心感谢 jinjutwo 的辛勤付出与重要贡献——正是有了他的努力，才让这一切成为可能！
 >  
 > **Exalted remains blocked in Korea.**  
 >  
