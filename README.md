@@ -46,7 +46,7 @@ Exalted is the **only source of income** for this repository. Your donation help
 >  
 > **Exalted remains blocked in Korea.**  
 >  
-> If you're in China and want access to Exalted, feel free to email me **after making a donation** (https://qr.alipay.com/fkx11285sfr5dhcqhgck4bb) to receive the Chinese version.  
+> If you're in China and want access to Exalted, feel free to email me **after making a donation** to receive the Chinese version.  
 >  
 > The **only official representative** of **lol-skins** in China for **development and technical issues** is **@jinjutwo** (*fong.wo* on Discord), who maintains the [lol-skins-developer repository on Gitee](https://gitee.com/jinjutwo/lol-skins-developer).  
 > **For donations and access, please contact us directly.**  
